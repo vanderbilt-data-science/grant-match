@@ -2,7 +2,7 @@
 
 **Created:** 2025-11-04
 **Total Issues:** 16
-**GitHub Repository:** https://github.com/jessespencersmith/grant-match
+**GitHub Repository:** https://github.com/vanderbilt-data-science/grant-match
 
 ## Overview
 
@@ -366,7 +366,7 @@ Organize all issues into a clear implementation roadmap with milestones and depe
 4. **Track Progress:** Update issues as work progresses
 5. **Iterate:** Refine approach based on learnings
 
-**Repository:** https://github.com/jessespencersmith/grant-match/issues
+**Repository:** https://github.com/vanderbilt-data-science/grant-match/issues
 
 ---
 
